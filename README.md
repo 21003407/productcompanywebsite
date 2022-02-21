@@ -191,12 +191,14 @@ Publish the website in the given URL.
           </div>        
       </div>
       <div class="footer">
-        Copyright &#169; 2020 Jue adventure Private Limited, Developed by Ishwarya.V
+        Copyright &#169; 2020 Jue adventure Private Limited, Developed by joans jay authers.A
       </div>
     </div>
   </body>
 </html>
+
 ###People Page:
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -268,7 +270,8 @@ Publish the website in the given URL.
   </div>
 </body>
 </html>
-Contact Us Page:
+###Contact Us Page:
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -306,7 +309,7 @@ Contact Us Page:
         </div>
       </div>
       <div class="footer">
-        Copyright &#169; 2021 Jue adventure Limited, Developed by Ishwarya.v
+        Copyright &#169; 2021 Jue adventure Limited, Developed by joans jay authers.A
       </div>
     </div>
   </body>
@@ -375,7 +378,7 @@ body {
 ###content {
   display: block;
   width: 100%;
-  background-image: url("C:/Users/ishwarya/Desktop/webpage/bg.jpg");
+  background-image: url("C:/Users/joans jay authers.A/Desktop/webpage/bg.jpg");
   min-height: 500px;
   background-size: 100% 100%;
   margin: 0px 0px 0px 0px;
