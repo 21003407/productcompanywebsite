@@ -485,19 +485,19 @@ body {
 
 ### Home Page:
 
-![](Capture1.png)
+![](Capture1.PNG)
 
 ### Products:
 
-![](Cap2.png)
+![](Cap2.PNG)
 
 ### People:
 
-![](Cap3.png)
+![](Cap3.PNG)
 
 ### Contact Us:
 
-![](Cap4.png)
+![](Cap4.PNG)
 
 ## Result:
 
