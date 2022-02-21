@@ -35,7 +35,7 @@ Validate the HTML code.
 Publish the website in the given URL.
 
 ## PROGRAM :
-
+~~~
 ###Home Page:
 <!DOCTYPE html>
 <html lang="en">
@@ -480,6 +480,7 @@ body {
   color: rgb(255, 255, 255);
   font-family: block;
 }
+~~~
 ## OUTPUT:
 
 ### Home Page:
